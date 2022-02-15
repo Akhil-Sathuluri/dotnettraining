@@ -1,0 +1,7 @@
+E:\C# Project\BaseEx\BaseEx\bin\Debug\BaseEx.exe.config
+E:\C# Project\BaseEx\BaseEx\bin\Debug\BaseEx.exe
+E:\C# Project\BaseEx\BaseEx\bin\Debug\BaseEx.pdb
+E:\C# Project\BaseEx\BaseEx\obj\Debug\BaseEx.csproj.SuggestedBindingRedirects.cache
+E:\C# Project\BaseEx\BaseEx\obj\Debug\BaseEx.csproj.CoreCompileInputs.cache
+E:\C# Project\BaseEx\BaseEx\obj\Debug\BaseEx.exe
+E:\C# Project\BaseEx\BaseEx\obj\Debug\BaseEx.pdb

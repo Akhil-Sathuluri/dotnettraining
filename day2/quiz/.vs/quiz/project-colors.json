@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "deb76ae8-dfe9-4ece-8c04-dd82877a717a": {
+      "ProjectGuid": "deb76ae8-dfe9-4ece-8c04-dd82877a717a",
+      "DisplayName": "quiz",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

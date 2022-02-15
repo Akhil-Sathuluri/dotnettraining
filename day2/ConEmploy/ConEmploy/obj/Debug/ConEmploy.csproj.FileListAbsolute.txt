@@ -1,0 +1,7 @@
+E:\C# Project\ConEmploy\ConEmploy\obj\Debug\ConEmploy.csproj.SuggestedBindingRedirects.cache
+E:\C# Project\ConEmploy\ConEmploy\obj\Debug\ConEmploy.csproj.CoreCompileInputs.cache
+E:\C# Project\ConEmploy\ConEmploy\bin\Debug\ConEmploy.exe.config
+E:\C# Project\ConEmploy\ConEmploy\bin\Debug\ConEmploy.exe
+E:\C# Project\ConEmploy\ConEmploy\bin\Debug\ConEmploy.pdb
+E:\C# Project\ConEmploy\ConEmploy\obj\Debug\ConEmploy.exe
+E:\C# Project\ConEmploy\ConEmploy\obj\Debug\ConEmploy.pdb

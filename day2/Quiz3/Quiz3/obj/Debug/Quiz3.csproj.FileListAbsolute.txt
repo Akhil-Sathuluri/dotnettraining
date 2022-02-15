@@ -1,0 +1,7 @@
+E:\C# Project\Quiz3\Quiz3\bin\Debug\Quiz3.exe.config
+E:\C# Project\Quiz3\Quiz3\bin\Debug\Quiz3.exe
+E:\C# Project\Quiz3\Quiz3\bin\Debug\Quiz3.pdb
+E:\C# Project\Quiz3\Quiz3\obj\Debug\Quiz3.csproj.SuggestedBindingRedirects.cache
+E:\C# Project\Quiz3\Quiz3\obj\Debug\Quiz3.csproj.CoreCompileInputs.cache
+E:\C# Project\Quiz3\Quiz3\obj\Debug\Quiz3.exe
+E:\C# Project\Quiz3\Quiz3\obj\Debug\Quiz3.pdb

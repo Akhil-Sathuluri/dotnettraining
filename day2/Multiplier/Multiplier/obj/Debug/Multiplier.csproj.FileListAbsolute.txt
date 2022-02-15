@@ -1,0 +1,7 @@
+E:\C# Project\Multiplier\Multiplier\bin\Debug\Multiplier.exe.config
+E:\C# Project\Multiplier\Multiplier\bin\Debug\Multiplier.exe
+E:\C# Project\Multiplier\Multiplier\bin\Debug\Multiplier.pdb
+E:\C# Project\Multiplier\Multiplier\obj\Debug\Multiplier.csproj.SuggestedBindingRedirects.cache
+E:\C# Project\Multiplier\Multiplier\obj\Debug\Multiplier.csproj.CoreCompileInputs.cache
+E:\C# Project\Multiplier\Multiplier\obj\Debug\Multiplier.exe
+E:\C# Project\Multiplier\Multiplier\obj\Debug\Multiplier.pdb

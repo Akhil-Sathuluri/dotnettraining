@@ -1,0 +1,7 @@
+E:\C# Project\quiz2-2\quiz2-2\obj\Debug\quiz2-2.csproj.SuggestedBindingRedirects.cache
+E:\C# Project\quiz2-2\quiz2-2\obj\Debug\quiz2-2.csproj.CoreCompileInputs.cache
+E:\C# Project\quiz2-2\quiz2-2\bin\Debug\quiz2-2.exe.config
+E:\C# Project\quiz2-2\quiz2-2\bin\Debug\quiz2-2.exe
+E:\C# Project\quiz2-2\quiz2-2\bin\Debug\quiz2-2.pdb
+E:\C# Project\quiz2-2\quiz2-2\obj\Debug\quiz2-2.exe
+E:\C# Project\quiz2-2\quiz2-2\obj\Debug\quiz2-2.pdb

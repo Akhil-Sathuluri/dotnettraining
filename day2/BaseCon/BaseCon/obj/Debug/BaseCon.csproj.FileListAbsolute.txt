@@ -1,0 +1,7 @@
+E:\C# Project\BaseCon\BaseCon\bin\Debug\BaseCon.exe.config
+E:\C# Project\BaseCon\BaseCon\bin\Debug\BaseCon.exe
+E:\C# Project\BaseCon\BaseCon\bin\Debug\BaseCon.pdb
+E:\C# Project\BaseCon\BaseCon\obj\Debug\BaseCon.csproj.SuggestedBindingRedirects.cache
+E:\C# Project\BaseCon\BaseCon\obj\Debug\BaseCon.csproj.CoreCompileInputs.cache
+E:\C# Project\BaseCon\BaseCon\obj\Debug\BaseCon.exe
+E:\C# Project\BaseCon\BaseCon\obj\Debug\BaseCon.pdb
