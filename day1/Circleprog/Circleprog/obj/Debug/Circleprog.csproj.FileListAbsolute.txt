@@ -1,0 +1,8 @@
+E:\C# Project\day1\Circleprog\Circleprog\bin\Debug\Circleprog.exe.config
+E:\C# Project\day1\Circleprog\Circleprog\bin\Debug\Circleprog.exe
+E:\C# Project\day1\Circleprog\Circleprog\bin\Debug\Circleprog.pdb
+E:\C# Project\day1\Circleprog\Circleprog\obj\Debug\Circleprog.csproj.AssemblyReference.cache
+E:\C# Project\day1\Circleprog\Circleprog\obj\Debug\Circleprog.csproj.SuggestedBindingRedirects.cache
+E:\C# Project\day1\Circleprog\Circleprog\obj\Debug\Circleprog.csproj.CoreCompileInputs.cache
+E:\C# Project\day1\Circleprog\Circleprog\obj\Debug\Circleprog.exe
+E:\C# Project\day1\Circleprog\Circleprog\obj\Debug\Circleprog.pdb

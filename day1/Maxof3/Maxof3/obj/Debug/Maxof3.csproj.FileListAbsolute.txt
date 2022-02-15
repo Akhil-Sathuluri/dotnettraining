@@ -1,0 +1,7 @@
+E:\C# Project\day1\Maxof3\Maxof3\bin\Debug\Maxof3.exe.config
+E:\C# Project\day1\Maxof3\Maxof3\bin\Debug\Maxof3.exe
+E:\C# Project\day1\Maxof3\Maxof3\bin\Debug\Maxof3.pdb
+E:\C# Project\day1\Maxof3\Maxof3\obj\Debug\Maxof3.csproj.SuggestedBindingRedirects.cache
+E:\C# Project\day1\Maxof3\Maxof3\obj\Debug\Maxof3.csproj.CoreCompileInputs.cache
+E:\C# Project\day1\Maxof3\Maxof3\obj\Debug\Maxof3.exe
+E:\C# Project\day1\Maxof3\Maxof3\obj\Debug\Maxof3.pdb

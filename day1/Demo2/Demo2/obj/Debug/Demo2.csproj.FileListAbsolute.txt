@@ -1,0 +1,7 @@
+E:\C# Project\day1\Demo2\Demo2\bin\Debug\Demo2.exe.config
+E:\C# Project\day1\Demo2\Demo2\bin\Debug\Demo2.exe
+E:\C# Project\day1\Demo2\Demo2\bin\Debug\Demo2.pdb
+E:\C# Project\day1\Demo2\Demo2\obj\Debug\Demo2.csproj.SuggestedBindingRedirects.cache
+E:\C# Project\day1\Demo2\Demo2\obj\Debug\Demo2.csproj.CoreCompileInputs.cache
+E:\C# Project\day1\Demo2\Demo2\obj\Debug\Demo2.exe
+E:\C# Project\day1\Demo2\Demo2\obj\Debug\Demo2.pdb

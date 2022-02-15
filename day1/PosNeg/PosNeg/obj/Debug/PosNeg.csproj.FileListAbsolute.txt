@@ -1,0 +1,7 @@
+E:\C# Project\day1\PosNeg\PosNeg\obj\Debug\PosNeg.csproj.SuggestedBindingRedirects.cache
+E:\C# Project\day1\PosNeg\PosNeg\obj\Debug\PosNeg.csproj.CoreCompileInputs.cache
+E:\C# Project\day1\PosNeg\PosNeg\bin\Debug\PosNeg.exe.config
+E:\C# Project\day1\PosNeg\PosNeg\bin\Debug\PosNeg.exe
+E:\C# Project\day1\PosNeg\PosNeg\bin\Debug\PosNeg.pdb
+E:\C# Project\day1\PosNeg\PosNeg\obj\Debug\PosNeg.exe
+E:\C# Project\day1\PosNeg\PosNeg\obj\Debug\PosNeg.pdb

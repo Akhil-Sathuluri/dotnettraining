@@ -1,0 +1,7 @@
+E:\C# Project\day1\Calculation\Calculation\bin\Debug\Calculation.exe.config
+E:\C# Project\day1\Calculation\Calculation\bin\Debug\Calculation.exe
+E:\C# Project\day1\Calculation\Calculation\bin\Debug\Calculation.pdb
+E:\C# Project\day1\Calculation\Calculation\obj\Debug\Calculation.csproj.SuggestedBindingRedirects.cache
+E:\C# Project\day1\Calculation\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+E:\C# Project\day1\Calculation\Calculation\obj\Debug\Calculation.exe
+E:\C# Project\day1\Calculation\Calculation\obj\Debug\Calculation.pdb

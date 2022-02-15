@@ -1,0 +1,7 @@
+E:\C# Project\day1\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csproj.SuggestedBindingRedirects.cache
+E:\C# Project\day1\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csproj.CoreCompileInputs.cache
+E:\C# Project\day1\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe.config
+E:\C# Project\day1\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe
+E:\C# Project\day1\EvenOdd\EvenOdd\bin\Debug\EvenOdd.pdb
+E:\C# Project\day1\EvenOdd\EvenOdd\obj\Debug\EvenOdd.exe
+E:\C# Project\day1\EvenOdd\EvenOdd\obj\Debug\EvenOdd.pdb
