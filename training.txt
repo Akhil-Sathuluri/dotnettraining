@@ -1,2 +1,7 @@
 welcome to git repositry
+git add.
+git commit
+git branch
+git reset
+git push
 learning with git commands
