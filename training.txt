@@ -1,5 +1,8 @@
 welcome to git repositry
 git rebase
+git add .
+git commit -m "message"
+git checkout
 git log
 git reset
 git remote update
