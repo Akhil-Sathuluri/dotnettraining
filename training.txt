@@ -1,5 +1,10 @@
 welcome to git repositry
 git add.
+akhil
+madhan
+chandra
+srikanth
+sandeep
 git commit
 git branch
 git reset
