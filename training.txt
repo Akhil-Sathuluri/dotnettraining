@@ -1,2 +1,8 @@
 welcome to git repositry
+git rebase
+git log
+git reset
+git remote update
+git merge
+git fetch
 learning with git commands
