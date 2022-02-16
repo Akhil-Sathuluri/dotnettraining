@@ -9,4 +9,13 @@ git commit
 git branch
 git reset
 git push
+git rebase
+git add .
+git commit -m "message"
+git checkout
+git log
+git reset
+git remote update
+git merge
+git fetch
 learning with git commands
